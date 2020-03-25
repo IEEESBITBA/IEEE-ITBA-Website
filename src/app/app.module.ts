@@ -28,6 +28,7 @@ import { Compenent1Component } from './compenent1/compenent1.component';
 import { BlogComponent } from './blog/blog.component';
 import { BlogContentComponent } from './blog-content/blog-content.component';
 import { BlogTitleComponent } from './blog-title/blog-title.component';
+import { NavbarMainComponent } from './navbar-main/navbar-main.component';
 
 @NgModule({
   declarations: [
@@ -48,7 +49,8 @@ import { BlogTitleComponent } from './blog-title/blog-title.component';
     Compenent1Component,
     BlogComponent,
     BlogContentComponent,
-    BlogTitleComponent
+    BlogTitleComponent,
+    NavbarMainComponent
   ],
   imports: [
     BrowserModule,

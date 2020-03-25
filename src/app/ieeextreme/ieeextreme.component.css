@@ -10,9 +10,9 @@
     padding: 50px;
     text-align: center;
 }
-.spacenav{
+/*.spacenav{
     min-height:50px;
-}
+}*/
 .ieeextreme-background{
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../../assets/image/ieee-extreme.jpg");
     background-attachment: fixed;

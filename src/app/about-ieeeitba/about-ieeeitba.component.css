@@ -7,8 +7,13 @@
 
 .global-container-b{
   width:100%;
-  background:#ffffff;
-  padding: 50px;
+  /*background:#ffffff;*/
+  /*padding: 50px;*/
+  background-image: url('../../assets/image/students-in-itba.png');
+  background-repeat: repeat;
+  background-position: center;
+  background-size: auto 100%;
+  box-shadow:inset 0 0 0 2000px rgba(227, 242, 253, 0.7);
 }
 .myCardRed{
   max-width: 400px;
@@ -29,7 +34,7 @@
 .aboutIEEE{
   max-width: 700px;
   height:100%;
-  color: #000000;
+  /*color: #000000;*/
   padding:70px;
   /*background-color: #00b0ff;*/
 }
